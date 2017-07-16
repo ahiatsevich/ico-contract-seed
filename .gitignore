@@ -4,3 +4,4 @@ bower_components
 *.swo
 node_modules
 build
+secrets.json
